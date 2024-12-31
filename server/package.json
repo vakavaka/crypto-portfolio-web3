@@ -8,6 +8,8 @@
     "web3": "^1.5.0",
     "axios": "^0.24.0",
     "dotenv": "^10.0.0",
-    "cors": "^2.8.5"
+    "cors": "^2.8.5",
+    "@binance/connector": "^1.0.0",
+    "bitget-api": "^1.0.0"
   }
 } 
