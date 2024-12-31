@@ -17,4 +17,4 @@ exports.getTokenPrices = async (symbols) => {
     console.error('Error fetching prices:', error);
     return {};
   }
-}; 
+};

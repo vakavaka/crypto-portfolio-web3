@@ -24,4 +24,4 @@ export const addExchange = async (exchangeData) => {
   return response.data;
 };
 
-export default api; 
+export default api;

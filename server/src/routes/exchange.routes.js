@@ -6,4 +6,4 @@ router.post('/', exchangeController.addExchange);
 router.get('/', exchangeController.getExchanges);
 router.delete('/:id', exchangeController.deleteExchange);
 
-module.exports = router; 
+module.exports = router;

@@ -22,4 +22,4 @@ exports.getTokenBalances = async (address) => {
     balance: balance / Math.pow(10, decimals),
     address: USDT_ADDRESS
   }];
-}; 
+};

@@ -21,4 +21,4 @@ router.post('/login', [
 // Get current user route
 router.get('/me', authController.getCurrentUser);
 
-module.exports = router; 
+module.exports = router;

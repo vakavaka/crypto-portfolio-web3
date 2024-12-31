@@ -4,4 +4,4 @@ const portfolioController = require('../controllers/portfolio.controller');
 
 router.get('/', portfolioController.getPortfolioData);
 
-module.exports = router; 
+module.exports = router;

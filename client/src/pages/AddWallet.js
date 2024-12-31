@@ -71,4 +71,4 @@ function AddWallet() {
   );
 }
 
-export default AddWallet; 
+export default AddWallet;

@@ -6,4 +6,4 @@ router.post('/', walletController.addWallet);
 router.get('/', walletController.getWallets);
 router.delete('/:id', walletController.deleteWallet);
 
-module.exports = router; 
+module.exports = router;
