@@ -10,6 +10,9 @@
     "dotenv": "^10.0.0",
     "cors": "^2.8.5",
     "@binance/connector": "^1.0.0",
-    "bitget-api": "^1.0.0"
+    "bitget-api": "^1.0.0",
+    "jsonwebtoken": "^9.0.0",
+    "bcryptjs": "^2.4.3",
+    "express-validator": "^7.0.1"
   }
 } 
